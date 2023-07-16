@@ -3,7 +3,6 @@ import Image from "../shared/Image";
 
 export default function ImageGallary({ images = [] }) {
   const [activeImage, setActiveImage] = useState(images[0]);
-  console.log(images.length);
   const handleSetActiveImage = (imageSource) => setActiveImage(imageSource);
 
   return (
