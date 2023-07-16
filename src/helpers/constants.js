@@ -1,0 +1,16 @@
+export const IMAGES = [
+  "/public/assets/image/2019-Casual-Shoe-for-Men-Adult-Trainer-Max-Size-39-47-Cushioning-Outdoor-Breath-Unisex-Fitness.jpg",
+  "/public/assets/image/5d10ed609c52a9ea0d90adf7434a9230.jpg",
+  "/public/assets/image/43dd9d1c34f9b9f0851f5ff919b11c57.jpg",
+  "/public/assets/image/61qIJ8yMfuL._AC_UY695_.jpg",
+  "/public/assets/image/71k+xYLsfFL._UY625_.jpg",
+  "/public/assets/image/71z-uVAGMQL._AC_SX522_.jpg",
+  "/public/assets/image/929adb8d2f64722af692c0b145d1991b_tn.jpg",
+  "/public/assets/image/2019-Casual-Shoe-for-Men-Adult-Trainer-Max-Size-39-47-Cushioning-Outdoor-Breath-Unisex-Fitness.jpg",
+  "/public/assets/image/High-End-Anime-Sneakers-Mem-Shoes-Heel-High-Quality-2022-Women-s-Casual-Shoes-Kids-Sole.jpg",
+  "/public/assets/image/Mens-Sneakers-Platform-All-Black-White-Shoes-Breathable-Lace-up-Fashion-Unisex-Chunky-Sneakers-Gym-Outdoor.jpg",
+  "/public/assets/image/Running-Shoes-Woman-Summer-Sports-Shoes-Purple-Sneakers-Sport-Shoes-For-Women-Tennis-Racing-Deporte-Boty.jpg",
+  "/public/assets/image/s_5d474ed82e7c2fe2a934e02a.jpg",
+  "/public/assets/image/S3b2a58f6f70e49ae9325dee893c33c56r.jpg",
+  "/public/assets/image/September-2021-025-thumb600h.jpg",
+];
